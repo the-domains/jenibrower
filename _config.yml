@@ -1,0 +1,28 @@
+name: jenibrower
+favicon: null
+layout_spectrum: 0.04333896702155471
+typography_spectrum: 0.014211935689672828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5970976932439953
+  lightness: 0.6601363981608301
+  saturation: 0.6439846637658775
+  rhythmicContrast: 0.6659249325748533
+purpose: []
